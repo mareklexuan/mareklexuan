@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/mareklexuan/mareklexuan/main/assets/programmer.gif">
 </p>
