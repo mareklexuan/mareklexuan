@@ -3,6 +3,11 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Book Review: 48 Laws of Power](https://mareklexuan.com/book-review-48-laws-of-power/)
+- [Book Review: The 6 Habits Of Growth](https://mareklexuan.com/book-review-the-6-habits-of-growth/)
+- [Revenge Bedtime Procrastination Is Stealing Your Sleep](https://mareklexuan.com/revenge-bedtime-procrastination-is-stealing-your-sleep/)
+- [Book Review: Your Money or Your Life](https://mareklexuan.com/book-review-your-money-or-your-life/)
+- [Book Review: Every Tool’s a Hammer](https://mareklexuan.com/book-review-every-tools-a-hammer/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
