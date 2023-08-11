@@ -1,8 +1,9 @@
-### Hi there 👋
+# Hi there 👋
 
-# Blog posts
+## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Book Review: 48 Laws of Power](https://mareklexuan.com/book-review-48-laws-of-power/)
 - [Book Review: The 6 Habits Of Growth](https://mareklexuan.com/book-review-the-6-habits-of-growth/)
 - [Revenge Bedtime Procrastination Is Stealing Your Sleep](https://mareklexuan.com/revenge-bedtime-procrastination-is-stealing-your-sleep/)
