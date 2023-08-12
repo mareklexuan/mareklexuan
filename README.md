@@ -12,6 +12,8 @@ I am a self-taught web enthusiast, currently building websites on Jekyll. Markdo
 
 ![Static Badge](https://img.shields.io/badge/%2CEmail%2C%23EA4335)
 
+<img scr="https://img.shields.io/badge/%2CEmail%2C%23EA4335">
+
 <br>
 
 ## My latest blog posts 📰
