@@ -2,7 +2,7 @@
 
 ### Life Design | Self-Management | Personal Betterment
 
-I am a self-taught web enthusiast, who started on WordPress and is currently building websites on Jekyll. Markdown > WYSIWYG.
+I am a self-taught web enthusiast, currently building websites on Jekyll. Markdown > WYSIWYG.
 
 ## 📰 My latest blog posts
 
@@ -21,8 +21,7 @@ I am a self-taught web enthusiast, who started on WordPress and is currently bui
   _Often titled one of the most influential books about money and personal finance; but personally, I think this book is a mess._
 
 - **[Book Review: Every Tool’s a Hammer](https://mareklexuan.com/book-review-every-tools-a-hammer/)** _(25 July, 2023)_  
-  _Chronicle of Adam Savage&#39;s life as a maker, mixed with lessons, principles and notes about tools, techniques, and materials._  
-
+  _Chronicle of Adam Savage&#39;s life as a maker, mixed with lessons, principles and notes about tools, techniques, and materials._
 
 <!-- BLOG-POST-LIST:END -->
 
