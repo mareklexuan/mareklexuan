@@ -2,6 +2,8 @@
 
 ### Life Design | Self-Management | Personal Betterment
 
+<br>
+
 I am a self-taught web enthusiast, currently building websites on Jekyll. Markdown > WYSIWYG.
 
 ## 📰 My latest blog posts
