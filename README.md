@@ -1,6 +1,6 @@
 # 👋 Hello there, I'm [Marek](https://mareklexuan.com)
 
-## My latest blog posts
+## 📰 My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
 
