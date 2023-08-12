@@ -4,7 +4,7 @@
 
 <br>
 
-I am a problem solver, innovator, educator, mentor, essentialist and blogger. On my website I write and talk about life design, self-management and personal betterment. About building a better life.
+I am a problem solver, innovator, educator, mentor, essentialist and blogger. On my website I talk about life design, self-management and personal betterment. About building a better life.
 
 I am a self-taught web enthusiast, currently building websites on Jekyll. Markdown > WYSIWYG.
 
