@@ -8,6 +8,8 @@ I am a problem solver, innovator, educator, mentor, essentialist and blogger. On
 
 I am a self-taught web enthusiast, currently building websites on Jekyll. Markdown > WYSIWYG.
 
+Check out my website at [http://mareklexuan.com](http://mareklexuan.com)
+
 <br>
 
 ## My latest blog posts 📰
