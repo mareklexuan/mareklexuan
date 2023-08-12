@@ -44,6 +44,10 @@ I am a self-taught web enthusiast, currently building websites on Jekyll. Markdo
 </p>
 <br>
 
+_And may the Force be with you._
+
+<br>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/mareklexuan/mareklexuan/main/assets/programmer.gif">
 </p>
