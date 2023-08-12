@@ -17,5 +17,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://mareklexuan.com/feed.xml"
-          template: $newline [$title]($url)   $newline   $newline $description   $newline   $newline $date   $newline
+          template: $newline [$title]($url) ($date)   $newline   $newline $description   $newline   $newline   $newline
           date_format: "d mmmm, yyyy"
