@@ -17,5 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://mareklexuan.com/feed.xml"
-          template: "<ul><a href="$url">$title</a><br/>$date</ul>"
-          date_format: 'd mmmm, yyyy'
+          date_format: "d mmmm, yyyy"
