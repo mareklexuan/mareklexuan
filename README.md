@@ -10,9 +10,11 @@ I am a self-taught web enthusiast, currently building websites on Jekyll. Markdo
 
 <br>
 
-![Static Badge](https://img.shields.io/badge/%2CEmail%2C%23EA4335)
+![Static Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white)
 
-<img scr="https://img.shields.io/badge/%2CEmail%2C%23EA4335">
+Test
+
+<img scr="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white">
 
 <br>
 
