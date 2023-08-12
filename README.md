@@ -2,6 +2,8 @@
 
 ## 📰 My latest blog posts
 
+<br>
+
 <!-- BLOG-POST-LIST:START -->
 
 - **[Book Review: 48 Laws of Power](https://mareklexuan.com/book-review-48-laws-of-power/)** _(10 August, 2023)_  
