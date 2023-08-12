@@ -21,6 +21,8 @@
 
 <!-- BLOG-POST-LIST:END -->
 
+\
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/mareklexuan/mareklexuan/main/assets/programmer.gif">
 </p>
