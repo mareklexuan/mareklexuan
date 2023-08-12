@@ -1,8 +1,8 @@
 # 👋 Hello there, I'm Marek Le Xuan
 
-### Life Design | Personal Betterment | Self-Management
+#### Life Design | Personal Betterment | Self-Management
 
-### Digitalization | Automation | Project and Operation Management
+#### Digitalization | Automation | Project and Operation Management
 
 ## 📰 My latest blog posts
 
