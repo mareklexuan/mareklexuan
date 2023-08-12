@@ -1,4 +1,4 @@
-# Hello there 👋, I'm [Marek](https://mareklexuan.com)
+# 👋 Hello there, I'm [Marek](https://mareklexuan.com)
 
 ## My latest blog posts
 
