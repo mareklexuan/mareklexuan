@@ -8,7 +8,7 @@ I am a problem solver, innovator, educator, mentor, essentialist and blogger. On
 
 I am a self-taught web enthusiast, currently building websites on Jekyll. Markdown > WYSIWYG.
 
-Check out my website at [https://mareklexuan.com](https://mareklexuan.com)
+Check out my website at **[https://mareklexuan.com](https://mareklexuan.com)**
 
 <br>
 
