@@ -6,6 +6,8 @@
 
 I am a self-taught web enthusiast, currently building websites on Jekyll. Markdown > WYSIWYG.
 
+<br>
+
 ## 📰 My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -27,7 +29,7 @@ I am a self-taught web enthusiast, currently building websites on Jekyll. Markdo
 
 <!-- BLOG-POST-LIST:END -->
 
-<br><br>
+<br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mareklexuan/mareklexuan/main/assets/programmer.gif">
