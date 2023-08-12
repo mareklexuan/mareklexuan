@@ -3,11 +3,20 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Book Review: 48 Laws of Power](https://mareklexuan.com/book-review-48-laws-of-power/)
-- [Book Review: The 6 Habits Of Growth](https://mareklexuan.com/book-review-the-6-habits-of-growth/)
-- [Revenge Bedtime Procrastination Is Stealing Your Sleep](https://mareklexuan.com/revenge-bedtime-procrastination-is-stealing-your-sleep/)
-- [Book Review: Your Money or Your Life](https://mareklexuan.com/book-review-your-money-or-your-life/)
-- [Book Review: Every Tool’s a Hammer](https://mareklexuan.com/book-review-every-tools-a-hammer/)
+ - [Book Review: 48 Laws of Power](https://mareklexuan.com/book-review-48-laws-of-power/)   
+ 10 August, 2023   
+
+ - [Book Review: The 6 Habits Of Growth](https://mareklexuan.com/book-review-the-6-habits-of-growth/)   
+ 9 August, 2023   
+
+ - [Revenge Bedtime Procrastination Is Stealing Your Sleep](https://mareklexuan.com/revenge-bedtime-procrastination-is-stealing-your-sleep/)   
+ 4 August, 2023   
+
+ - [Book Review: Your Money or Your Life](https://mareklexuan.com/book-review-your-money-or-your-life/)   
+ 4 August, 2023   
+
+ - [Book Review: Every Tool’s a Hammer](https://mareklexuan.com/book-review-every-tools-a-hammer/)   
+ 25 July, 2023   
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
