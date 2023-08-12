@@ -1,4 +1,8 @@
-# 👋 Hello there, I'm [Marek](https://mareklexuan.com)
+# 👋 Hello there, I'm Marek Le Xuan
+
+Life Design | Personal Betterment | Self-Management
+
+Digitalization | Automation | Project and Operation Management.
 
 ## 📰 My latest blog posts
 
