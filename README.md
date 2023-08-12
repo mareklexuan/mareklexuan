@@ -10,11 +10,15 @@ I am a self-taught web enthusiast, currently building websites on Jekyll. Markdo
 
 <br>
 
-![Static Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white)
+![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white)
+![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white)
+![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white)
 
 Test
 
-<img scr="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white">
 
 <br>
 
