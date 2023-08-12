@@ -33,7 +33,7 @@ I am a self-taught web enthusiast, currently building websites on Jekyll. Markdo
 
 <br>
 
-### Connect with me 📬
+## Connect with me 📬
 
 <br>
 <p>
