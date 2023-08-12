@@ -29,8 +29,7 @@ Check out my website at **[https://mareklexuan.com](https://mareklexuan.com)**
   _Often titled one of the most influential books about money and personal finance; but personally, I think this book is a mess._
 
 - **[Book Review: Every Tool’s a Hammer](https://mareklexuan.com/book-review-every-tools-a-hammer/)** _(25 July, 2023)_  
-  _Chronicle of Adam Savage&#39;s life as a maker, mixed with lessons, principles and notes about tools, techniques, and materials._  
-
+  _Chronicle of Adam Savage&#39;s life as a maker, mixed with lessons, principles and notes about tools, techniques, and materials._
 
 <!-- BLOG-POST-LIST:END -->
 
@@ -50,7 +49,7 @@ Check out my website at **[https://mareklexuan.com](https://mareklexuan.com)**
 ## Do you like my work? Support me 💓
 
 <br>
-<a href="https://www.buymeacoffee.com/mareklexuan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 181px !important;" ></a>
+<a href="https://www.buymeacoffee.com/mareklexuan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 52px !important;width: 188px !important;" ></a>
 
 <br>
 <br>
