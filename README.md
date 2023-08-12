@@ -4,8 +4,6 @@
 
 ## 📰 My latest blog posts
 
-<br>
-
 <!-- BLOG-POST-LIST:START -->
  - **[Book Review: 48 Laws of Power](https://mareklexuan.com/book-review-48-laws-of-power/)** *(10 August, 2023)*   
  *It is one of the most extensive books about amassing power, and as such banned in several US prisons*   
