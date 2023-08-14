@@ -4,7 +4,7 @@
 
 <br>
 
-I am a problem solver, innovator, educator, mentor, essentialist and blogger. On my website I talk about life design, self-management and personal betterment. About building a better life.
+I am a problem solver, innovator, educator, mentor, essentialist and blogger. I talk about life design, self-management and personal betterment. About building a better life.
 
 I believe everybody needs to take responsibility for our lives, take a long hard look in the mirror and be honest with ourselves - the only person who is really going to care about you is you. Nobody is coming to save you, to fix your life. It is all in your hands.
 
@@ -33,8 +33,7 @@ So check out my website at **[https://mareklexuan.com](https://mareklexuan.com)*
   _Often titled one of the most influential books about money and personal finance; but personally, I think this book is a mess._
 
 - **[Book Review: Every Tool’s a Hammer](https://mareklexuan.com/book-review-every-tools-a-hammer/)** _(25 July, 2023)_  
-  _Chronicle of Adam Savage&#39;s life as a maker, mixed with lessons, principles and notes about tools, techniques, and materials._  
-
+  _Chronicle of Adam Savage&#39;s life as a maker, mixed with lessons, principles and notes about tools, techniques, and materials._
 
 <!-- BLOG-POST-LIST:END -->
 
