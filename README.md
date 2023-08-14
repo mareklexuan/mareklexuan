@@ -10,7 +10,7 @@ I believe everybody needs to take responsibility for our lives, take a long hard
 
 Every day is an opportunity to better ourselves and the world around us. Our health, our environment, our relationships, our work, or service and help others. Carpe diem.
 
-And I want to share my path and hopefully inspire others to make their lives better, make them amazing, and do more in your life. Do something great.
+And I want to share my path and hopefully inspire others to make their lives better, make them amazing, and do more in their life. To do something great.
 
 So check out my website at **[https://mareklexuan.com](https://mareklexuan.com)** and start a new era of your life.
 
@@ -19,25 +19,23 @@ So check out my website at **[https://mareklexuan.com](https://mareklexuan.com)*
 ## My latest blog posts 📰
 
 <!-- BLOG-POST-LIST:START -->
- - **[Book Review: 48 Laws of Power](https://mareklexuan.com/book-review-48-laws-of-power/)** *(10 August, 2023)*   
- *It is one of the most extensive books about amassing power, and as such banned in several US prisons*   
-   
 
- - **[Book Review: The 6 Habits Of Growth](https://mareklexuan.com/book-review-the-6-habits-of-growth/)** *(9 August, 2023)*   
- *In this Audible exclusive audiobook, high-performance coach Brendon Burchard talks about 6 habits for growth.*   
-   
+- **[Book Review: 48 Laws of Power](https://mareklexuan.com/book-review-48-laws-of-power/)** _(10 August, 2023)_  
+  _It is one of the most extensive books about amassing power, and as such banned in several US prisons_
 
- - **[Revenge Bedtime Procrastination Is Stealing Your Sleep](https://mareklexuan.com/revenge-bedtime-procrastination-is-stealing-your-sleep/)** *(4 August, 2023)*   
- *You need to go to bed but instead you watch another episode of your favourite show*   
-   
+- **[Book Review: The 6 Habits Of Growth](https://mareklexuan.com/book-review-the-6-habits-of-growth/)** _(9 August, 2023)_  
+  _In this Audible exclusive audiobook, high-performance coach Brendon Burchard talks about 6 habits for growth._
 
- - **[Book Review: Your Money or Your Life](https://mareklexuan.com/book-review-your-money-or-your-life/)** *(4 August, 2023)*   
- *Often titled one of the most influential books about money and personal finance; but personally, I think this book is a mess.*   
-   
+- **[Revenge Bedtime Procrastination Is Stealing Your Sleep](https://mareklexuan.com/revenge-bedtime-procrastination-is-stealing-your-sleep/)** _(4 August, 2023)_  
+  _You need to go to bed but instead you watch another episode of your favourite show_
 
- - **[Book Review: Every Tool’s a Hammer](https://mareklexuan.com/book-review-every-tools-a-hammer/)** *(25 July, 2023)*   
- *Chronicle of Adam Savage&#39;s life as a maker, mixed with lessons, principles and notes about tools, techniques, and materials.*   
-   
+- **[Book Review: Your Money or Your Life](https://mareklexuan.com/book-review-your-money-or-your-life/)** _(4 August, 2023)_  
+  _Often titled one of the most influential books about money and personal finance; but personally, I think this book is a mess._
+
+- **[Book Review: Every Tool’s a Hammer](https://mareklexuan.com/book-review-every-tools-a-hammer/)** _(25 July, 2023)_  
+  _Chronicle of Adam Savage&#39;s life as a maker, mixed with lessons, principles and notes about tools, techniques, and materials._  
+
+
 <!-- BLOG-POST-LIST:END -->
 
 <br>
