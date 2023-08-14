@@ -65,9 +65,3 @@ _And may the Force be with you._
 <p align="center">
   <img src="https://raw.githubusercontent.com/mareklexuan/mareklexuan/main/assets/programmer.gif">
 </p>
-
-<br>
-
-**Why GitHub?**
-
-I am a self-taught web enthusiast, currently building websites on Jekyll. Markdown > WYSIWYG.
