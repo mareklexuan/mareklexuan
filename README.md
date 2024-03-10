@@ -19,6 +19,10 @@ So check out my website at **[https://mareklexuan.com](https://mareklexuan.com)*
 ## My latest blog posts 📰
 
 <!-- BLOG-POST-LIST:START -->
+ - **[Book Review: Do the Work](https://mareklexuan.com/book-review-do-the-work/)** *(10 March, 2024)*   
+ *Manifesto of mantras about stages of your creative work and dealing with resistance and getting work done.*   
+   
+
  - **[Book Review: 48 Laws of Power](https://mareklexuan.com/book-review-48-laws-of-power/)** *(10 August, 2023)*   
  *It is one of the most extensive books about amassing power, and as such banned in several US prisons*   
    
@@ -33,10 +37,6 @@ So check out my website at **[https://mareklexuan.com](https://mareklexuan.com)*
 
  - **[Book Review: Your Money or Your Life](https://mareklexuan.com/book-review-your-money-or-your-life/)** *(4 August, 2023)*   
  *Often titled one of the most influential books about money and personal finance; but personally, I think this book is a mess.*   
-   
-
- - **[Book Review: Every Tool’s a Hammer](https://mareklexuan.com/book-review-every-tools-a-hammer/)** *(25 July, 2023)*   
- *Chronicle of Adam Savage&#39;s life as a maker, mixed with lessons, principles and notes about tools, techniques, and materials.*   
    
 <!-- BLOG-POST-LIST:END -->
 
