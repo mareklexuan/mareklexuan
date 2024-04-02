@@ -19,23 +19,23 @@ So check out my website at **[https://mareklexuan.com](https://mareklexuan.com)*
 ## My latest blog posts 📰
 
 <!-- BLOG-POST-LIST:START -->
- - **[Book Review: Do the Work](https://mareklexuan.com/book-review-do-the-work/)** *(9 March, 2024)*   
+ - **[Book Review: Do the Work](https://mareklexuan.com/book-review-do-the-work/)** *(10 March, 2024)*   
  *Manifesto of mantras about stages of your creative work and dealing with resistance and getting work done.*   
    
 
- - **[Book Review: 48 Laws of Power](https://mareklexuan.com/book-review-48-laws-of-power/)** *(9 August, 2023)*   
+ - **[Book Review: 48 Laws of Power](https://mareklexuan.com/book-review-48-laws-of-power/)** *(10 August, 2023)*   
  *It is one of the most extensive books about amassing power, and as such banned in several US prisons*   
    
 
- - **[Book Review: The 6 Habits Of Growth](https://mareklexuan.com/book-review-the-6-habits-of-growth/)** *(8 August, 2023)*   
+ - **[Book Review: The 6 Habits Of Growth](https://mareklexuan.com/book-review-the-6-habits-of-growth/)** *(9 August, 2023)*   
  *In this Audible exclusive audiobook, high-performance coach Brendon Burchard talks about 6 habits for growth.*   
    
 
- - **[Revenge Bedtime Procrastination Is Stealing Your Sleep](https://mareklexuan.com/revenge-bedtime-procrastination-is-stealing-your-sleep/)** *(3 August, 2023)*   
+ - **[Revenge Bedtime Procrastination Is Stealing Your Sleep](https://mareklexuan.com/revenge-bedtime-procrastination-is-stealing-your-sleep/)** *(4 August, 2023)*   
  *You need to go to bed but instead you watch another episode of your favourite show*   
    
 
- - **[Book Review: Your Money or Your Life](https://mareklexuan.com/book-review-your-money-or-your-life/)** *(3 August, 2023)*   
+ - **[Book Review: Your Money or Your Life](https://mareklexuan.com/book-review-your-money-or-your-life/)** *(4 August, 2023)*   
  *Often titled one of the most influential books about money and personal finance; but personally, I think this book is a mess.*   
    
 <!-- BLOG-POST-LIST:END -->
