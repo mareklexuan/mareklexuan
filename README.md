@@ -1,6 +1,6 @@
 # Hello there, I'm Marek Le Xuan 👋
 
-### Life Design | Self-Management | Personal Betterment
+### Life Design • Productivity • Personal Betterment
 
 <br>
 
