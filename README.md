@@ -39,6 +39,13 @@ So check out my website at **[https://mareklexuan.com](https://mareklexuan.com)*
  *Often titled one of the most influential books about money and personal finance; but personally, I think this book is a mess.*   
    
 <!-- BLOG-POST-LIST:END -->
+<br>
+
+## Learning web dev with Jekyll 💻
+
+I'm a self-taught web dev (HTML/CSS) and Jekyll hobbyist, learning through trial and error, and using Jekyll to create my personal website. I am sharing my experience and what I have learned in my [Jekyll tips & tricks repository](https://github.com/mareklexuan/jekyll-tips-tricks).
+
+<br>
 
 <br>
 
