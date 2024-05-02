@@ -4,13 +4,15 @@
 
 <br>
 
-I am a problem solver, innovator, educator, mentor, essentialist and blogger. I talk about life design, self-management and personal betterment. About building a better life.
-
-I believe everybody needs to take responsibility for our lives, take a long hard look in the mirror and be honest with ourselves - the only person who is really going to care about you is you. Nobody is coming to save you, to fix your life. It is all in your hands.
+Everybody needs to take responsibility for their lives, take a long hard look in the mirror and be honest with ourselves - the only person who is really going to care about you is you. Nobody is coming to save you, to fix your life. It is all in your hands.
 
 Every day is an opportunity to better ourselves and the world around us. Our health, our environment, our relationships, our work, or service and help others. Carpe diem.
 
-And I want to share my path and hopefully inspire others to make their lives better, make them amazing, and do more in their life. To do something great.
+I am a problem solver, innovator, educator, mentor, essentialist and blogger. On my website I talk about life design, productivity, career, self-management and personal betterment.
+
+I want to share my path, thoughts and ideas, and hopefully inspire others to build better lives. To do more, to be more, and to live more.
+
+I want to help you own your life, build your personal freedom and kick ass!
 
 So check out my website at **[https://mareklexuan.com](https://mareklexuan.com)** and start a new era of your life.
 
