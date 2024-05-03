@@ -21,6 +21,10 @@ So check out my website at **[https://mareklexuan.com](https://mareklexuan.com)*
 ## My latest blog posts 📰
 
 <!-- BLOG-POST-LIST:START -->
+ - **[What skills you should list in your CV](https://mareklexuan.com/what-skills-you-should-list-in-your-cv/)** *(2 May, 2024)*   
+ *What skills you should list in your CV to keep it relevant and up-to-date when applying for a job*   
+   
+
  - **[Book Review: Do the Work](https://mareklexuan.com/book-review-do-the-work/)** *(9 March, 2024)*   
  *Manifesto of mantras about stages of your creative work and dealing with resistance and getting work done.*   
    
@@ -35,10 +39,6 @@ So check out my website at **[https://mareklexuan.com](https://mareklexuan.com)*
 
  - **[Revenge Bedtime Procrastination Is Stealing Your Sleep](https://mareklexuan.com/revenge-bedtime-procrastination-is-stealing-your-sleep/)** *(3 August, 2023)*   
  *You need to go to bed but instead you watch another episode of your favourite show*   
-   
-
- - **[Book Review: Your Money or Your Life](https://mareklexuan.com/book-review-your-money-or-your-life/)** *(3 August, 2023)*   
- *Often titled one of the most influential books about money and personal finance; but personally, I think this book is a mess.*   
    
 <!-- BLOG-POST-LIST:END -->
 <br>
