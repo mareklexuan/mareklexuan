@@ -10,7 +10,7 @@ Every day is an opportunity to better ourselves and the world around us. Our hea
 
 I am a problem solver, innovator, educator, mentor, essentialist and blogger. On my website I talk about life design, productivity, career, self-management and personal betterment.
 
-I want to share my path, thoughts and ideas, and hopefully inspire others to build better lives. To do more, to be more, and to live more.
+I want to share my path, thoughts and ideas, and inspire others to build better lives. To do more, to be more, and to live more.
 
 I want to help you own your life, build your personal freedom and kick ass!
 
