@@ -21,22 +21,25 @@ So check out my website at **[https://mareklexuan.com](https://mareklexuan.com)*
 ## My latest blog posts 📰
 
 <!-- BLOG-POST-LIST:START -->
+ - **[What skills you should list in your CV](https://mareklexuan.com/what-skills-you-should-list-in-your-cv/)** *(2 May, 2024)*   
+ *What skills you should list in your CV to keep it relevant and up-to-date when applying for a job*   
+   
 
-- **[What skills you should list in your CV](https://mareklexuan.com/what-skills-you-should-list-in-your-cv/)** _(2 May, 2024)_  
-  _What skills you should list in your CV to keep it relevant and up-to-date when applying for a job_
+ - **[Book Review: Do the Work](https://mareklexuan.com/book-review-do-the-work/)** *(9 March, 2024)*   
+ *Manifesto of mantras about stages of your creative work and dealing with resistance and getting work done.*   
+   
 
-- **[Book Review: Do the Work](https://mareklexuan.com/book-review-do-the-work/)** _(9 March, 2024)_  
-  _Manifesto of mantras about stages of your creative work and dealing with resistance and getting work done._
+ - **[Book Review: 48 Laws of Power](https://mareklexuan.com/book-review-48-laws-of-power/)** *(9 August, 2023)*   
+ *It is one of the most extensive books about amassing power, and as such banned in several US prisons*   
+   
 
-- **[Book Review: 48 Laws of Power](https://mareklexuan.com/book-review-48-laws-of-power/)** _(9 August, 2023)_  
-  _It is one of the most extensive books about amassing power, and as such banned in several US prisons_
+ - **[Book Review: The 6 Habits Of Growth](https://mareklexuan.com/book-review-the-6-habits-of-growth/)** *(8 August, 2023)*   
+ *In this Audible exclusive audiobook, high-performance coach Brendon Burchard talks about 6 habits for growth.*   
+   
 
-- **[Book Review: The 6 Habits Of Growth](https://mareklexuan.com/book-review-the-6-habits-of-growth/)** _(8 August, 2023)_  
-  _In this Audible exclusive audiobook, high-performance coach Brendon Burchard talks about 6 habits for growth._
-
-- **[Revenge Bedtime Procrastination Is Stealing Your Sleep](https://mareklexuan.com/revenge-bedtime-procrastination-is-stealing-your-sleep/)** _(3 August, 2023)_  
-  _You need to go to bed but instead you watch another episode of your favourite show_
-
+ - **[Revenge Bedtime Procrastination Is Stealing Your Sleep](https://mareklexuan.com/revenge-bedtime-procrastination-is-stealing-your-sleep/)** *(3 August, 2023)*   
+ *You need to go to bed but instead you watch another episode of your favourite show*   
+   
 <!-- BLOG-POST-LIST:END -->
 <br>
 
