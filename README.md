@@ -67,6 +67,7 @@ I'm a self-taught web dev (HTML/CSS) and Jekyll hobbyist, learning through trial
 <br>
 <br>
 <br>
+<br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mareklexuan/mareklexuan/main/assets/programmer.gif">
