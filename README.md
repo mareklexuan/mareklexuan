@@ -21,6 +21,10 @@ So check out my website at **[https://mareklexuan.com](https://mareklexuan.com)*
 ## My latest blog posts 📰
 
 <!-- BLOG-POST-LIST:START -->
+ - **[Book Review: Outliers](https://mareklexuan.com/book-review-outliers/)** *(14 August, 2024)*   
+ *Stories about how right opportunities, doing the work, and your cultural legacy can shape your life.*   
+   
+
  - **[What skills you should list in your CV](https://mareklexuan.com/what-skills-you-should-list-in-your-cv/)** *(2 May, 2024)*   
  *What skills you should list in your CV to keep it relevant and up-to-date when applying for a job*   
    
@@ -35,10 +39,6 @@ So check out my website at **[https://mareklexuan.com](https://mareklexuan.com)*
 
  - **[Book Review: The 6 Habits Of Growth](https://mareklexuan.com/book-review-the-6-habits-of-growth/)** *(8 August, 2023)*   
  *In this Audible exclusive audiobook, high-performance coach Brendon Burchard talks about 6 habits for growth.*   
-   
-
- - **[Revenge Bedtime Procrastination Is Stealing Your Sleep](https://mareklexuan.com/revenge-bedtime-procrastination-is-stealing-your-sleep/)** *(3 August, 2023)*   
- *You need to go to bed but instead you watch another episode of your favourite show*   
    
 <!-- BLOG-POST-LIST:END -->
 <br>
