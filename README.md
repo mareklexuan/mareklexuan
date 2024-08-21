@@ -21,6 +21,10 @@ So check out my website at **[https://mareklexuan.com](https://mareklexuan.com)*
 ## My latest blog posts 📰
 
 <!-- BLOG-POST-LIST:START -->
+ - **[Book Review: The Subtle Art of Not Giving a F*ck](https://mareklexuan.com/book-review-the-subtle-art-of-not-giving-a-f-ck/)** *(20 August, 2024)*   
+ *Stop worrying and caring about things that are not important and meaningful in your life*   
+   
+
  - **[Book Review: Outliers](https://mareklexuan.com/book-review-outliers/)** *(14 August, 2024)*   
  *Stories about how right opportunities, doing the work, and your cultural legacy can shape your life.*   
    
@@ -35,10 +39,6 @@ So check out my website at **[https://mareklexuan.com](https://mareklexuan.com)*
 
  - **[Book Review: 48 Laws of Power](https://mareklexuan.com/book-review-48-laws-of-power/)** *(9 August, 2023)*   
  *It is one of the most extensive books about amassing power, and as such banned in several US prisons*   
-   
-
- - **[Book Review: The 6 Habits Of Growth](https://mareklexuan.com/book-review-the-6-habits-of-growth/)** *(8 August, 2023)*   
- *In this Audible exclusive audiobook, high-performance coach Brendon Burchard talks about 6 habits for growth.*   
    
 <!-- BLOG-POST-LIST:END -->
 <br>
