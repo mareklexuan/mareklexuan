@@ -1,20 +1,26 @@
 # Hello there, I'm Marek Le Xuan 👋
 
-### Life Design • Productivity • Personal Betterment
+### Operational Excellence • Productivity • Digitalization • Automation
 
 <br>
 
-Everybody needs to take responsibility for their lives, take a long hard look in the mirror and be honest with ourselves - the only person who is really going to care about you is you. Nobody is coming to save you, to fix your life. It is all in your hands.
+You do not rise to the level of your goals and plans. 
 
-Every day is an opportunity to better ourselves and the world around us. Our health, our environment, our relationships, our work, or service and help others. Carpe diem.
+You fall to the level of your systems and processes. 
 
-I am a problem solver, innovator, educator, mentor, essentialist and blogger. On my website I talk about life design, productivity, career, self-management and personal betterment.
+Everybody wants to make more and sell more, but in order to succeed, you need the system that will take care of it. Well-made processes ensure consistent high quality of work and prevent wasting time and money.
 
-I want to share my path, thoughts and ideas, and inspire others to build better lives. To do more, to be more, and to live more.
+I am a firm believer in operational excellence through continuous improvements. Everything is changing, so should we and our processes. We need to constantly adapt to keep up and improve our productivity.
 
-I want to help you own your life, build your personal freedom and kick ass!
+Well defined and documented processes will:
 
-So check out my website at **[https://mareklexuan.com](https://mareklexuan.com)** and start a new era of your life.
+⚡ Ensure delivering your product or service in consistent high quality
+⚡ Save time and money wasted figuring out how to do the work
+⚡ Empower your people to handle even the challenging tasks
+⚡ Allow streamlined scaling of your team and business
+⚡ Open new opportunities for digitalization, optimization and automation
+
+If that's what you're looking for—let's talk.
 
 <br>
 
