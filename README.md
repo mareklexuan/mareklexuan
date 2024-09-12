@@ -14,11 +14,11 @@ I am a firm believer in operational excellence through continuous improvements. 
 
 Well defined and documented processes will:
 
-⚡ Ensure delivering your product or service in consistent high quality
-⚡ Save time and money wasted figuring out how to do the work
-⚡ Empower your people to handle even the challenging tasks
-⚡ Allow streamlined scaling of your team and business
-⚡ Open new opportunities for digitalization, optimization and automation
+-⚡ Ensure delivering your product or service in consistent high quality
+-⚡ Save time and money wasted figuring out how to do the work
+-⚡ Empower your people to handle even the challenging tasks
+-⚡ Allow streamlined scaling of your team and business
+-⚡ Open new opportunities for digitalization, optimization and automation
 
 If that's what you're looking for—let's talk.
 
