@@ -1,26 +1,18 @@
 # Hello there, I'm Marek Le Xuan 👋
 
-### Operational Excellence • Productivity • Digitalization • Automation
+### Project Management • AI • Productivity • 📅🤖⚡
 
 <br>
 
-You do not rise to the level of your goals and plans. 
+I am a problem solver, innovator and essentialist. A project manager, leader and educator. To every challenge I say: "No problem" and I iterate through it. Something needs to be taken care of? I am your man. They call me "The Wolf". 🐺
+ 
+I like creating and building things, I like the process of testing and iterating, connecting all the pieces and seeing the project grow. But at the same time, I like order, clear documentation, everything planned, transparent and accessible. 📅
 
-You fall to the level of your systems and processes. 
+You don't rise to the level of your goals, you fall to the level of your systems and processes. I am always on a lookout for new tools to make my work and my life more efficient. ⚡
 
-Everybody wants to make more and sell more, but in order to succeed, you need the system that will take care of it. Well-made processes ensure consistent high quality of work and prevent wasting time and money.
+I am interested in tech, SaaS tools and now catching up on latest generative AI tools and how to implement them into business. 🤖
 
-I am a firm believer in operational excellence through continuous improvements. Everything is changing, so should we and our processes. We need to constantly adapt to keep up and improve our productivity.
-
-Well defined and documented processes will:
-
-⚡ Ensure delivering your product or service in consistent high quality<br>
-⚡ Save time and money wasted figuring out how to do the work<br>
-⚡ Empower your people to handle even the challenging tasks<br>
-⚡ Allow streamlined scaling of your team and business<br>
-⚡ Open new opportunities for digitalization, optimization and automation<br>
-
-If that's what you're looking for—let's talk.
+Did we vibe? Let's connect! 🤝 (extra points if you get the reference)
 
 <br>
 
