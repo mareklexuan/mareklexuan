@@ -1,18 +1,12 @@
 # Hello there, I'm Marek Le Xuan 👋
 
-### Project Management • AI • Productivity • 📅🤖⚡
+### Project • Product • Productivity
 
 <br>
 
-I am a problem solver, innovator and essentialist. A project manager, leader and educator. To every challenge I say: "No problem" and I iterate through it. Something needs to be taken care of? I am your man. They call me "The Wolf". 🐺
- 
-I like creating and building things, I like the process of testing and iterating, connecting all the pieces and seeing the project grow. But at the same time, I like order, clear documentation, everything planned, transparent and accessible. 📅
+I’m a project manager in tech, working for the past 8 years on development and security projects, in companies like Kiwi.com, ContentKing and as a freelancer. Currently looking for a new company to join, as a Product or Project Manager/Owner.
 
-You don't rise to the level of your goals, you fall to the level of your systems and processes. I am always on a lookout for new tools to make my work and my life more efficient. ⚡
-
-I am interested in tech, SaaS tools and now catching up on latest generative AI tools and how to implement them into business. 🤖
-
-Did we vibe? Let's connect! 🤝 (extra points if you get the reference)
+I am PRINCE2 certified, with experience in both Agile (Scrum, Kanban) and more traditional waterfall projects, from custom ERP/CRM to smaller web projects.
 
 <br>
 
