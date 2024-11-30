@@ -57,6 +57,8 @@ I am PRINCE2 certified, with experience in both Agile (Scrum, Kanban) and more t
 <!-- BLOG-POST-LIST:END -->
 <br>
 
+Check out the full blog ➡ [https://mareklexuan.com/blog/](https://mareklexuan.com/blog/)
+
 ## Learning web dev with Jekyll 💻
 
 I'm a self-taught web dev (HTML/CSS) and Jekyll hobbyist, learning through trial and error, and using Jekyll to create my personal website. I am sharing my experience and what I have learned in my [Jekyll tips & tricks repository](https://github.com/mareklexuan/jekyll-tips-tricks).
