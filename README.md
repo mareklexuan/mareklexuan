@@ -28,36 +28,34 @@ I am PRINCE2 certified, with experience in both Agile (Scrum, Kanban) and more t
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>&nbsp;
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></a>&nbsp;
 
-
-
 <br>
 
 ## My latest blog posts 📰
 
 <!-- BLOG-POST-LIST:START -->
- - **[Book Review: The Subtle Art of Not Giving a F*ck](https://mareklexuan.com/book-review-the-subtle-art-of-not-giving-a-f-ck/)** *(20 August, 2024)*   
- *Stop worrying and caring about things that are not important and meaningful in your life*   
-   
 
- - **[Book Review: Outliers](https://mareklexuan.com/book-review-outliers/)** *(14 August, 2024)*   
- *Stories about how right opportunities, doing the work, and your cultural legacy can shape your life.*   
-   
+- **[Book Review: The Subtle Art of Not Giving a F\*ck](https://mareklexuan.com/book-review-the-subtle-art-of-not-giving-a-f-ck/)** _(20 August, 2024)_  
+  _Stop worrying and caring about things that are not important and meaningful in your life_
 
- - **[What skills you should list in your CV](https://mareklexuan.com/what-skills-you-should-list-in-your-cv/)** *(2 May, 2024)*   
- *What skills you should list in your CV to keep it relevant and up-to-date when applying for a job*   
-   
+- **[Book Review: Outliers](https://mareklexuan.com/book-review-outliers/)** _(14 August, 2024)_  
+  _Stories about how right opportunities, doing the work, and your cultural legacy can shape your life._
 
- - **[Book Review: Do the Work](https://mareklexuan.com/book-review-do-the-work/)** *(9 March, 2024)*   
- *Manifesto of mantras about stages of your creative work and dealing with resistance and getting work done.*   
-   
+- **[What skills you should list in your CV](https://mareklexuan.com/what-skills-you-should-list-in-your-cv/)** _(2 May, 2024)_  
+  _What skills you should list in your CV to keep it relevant and up-to-date when applying for a job_
 
- - **[Book Review: 48 Laws of Power](https://mareklexuan.com/book-review-48-laws-of-power/)** *(9 August, 2023)*   
- *It is one of the most extensive books about amassing power, and as such banned in several US prisons*   
-   
+- **[Book Review: Do the Work](https://mareklexuan.com/book-review-do-the-work/)** _(9 March, 2024)_  
+  _Manifesto of mantras about stages of your creative work and dealing with resistance and getting work done._
+
+- **[Book Review: 48 Laws of Power](https://mareklexuan.com/book-review-48-laws-of-power/)** _(9 August, 2023)_  
+  _It is one of the most extensive books about amassing power, and as such banned in several US prisons_  
+
+
 <!-- BLOG-POST-LIST:END -->
 <br>
 
 Check out the full blog ➡ [https://mareklexuan.com/blog/](https://mareklexuan.com/blog/)
+
+<br>
 
 ## Learning web dev with Jekyll 💻
 
