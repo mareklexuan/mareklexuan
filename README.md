@@ -33,24 +33,12 @@ I am PRINCE2 certified, with experience in both Agile (Scrum, Kanban) and more t
 ## My latest blog posts 📰
 
 <!-- BLOG-POST-LIST:START -->
- - **[Book Review: The Subtle Art of Not Giving a F*ck](https://mareklexuan.com/book-review-the-subtle-art-of-not-giving-a-f-ck/)** *(20 August, 2024)*   
- *Stop worrying and caring about things that are not important and meaningful in your life*   
-   
-
- - **[Book Review: Outliers](https://mareklexuan.com/book-review-outliers/)** *(14 August, 2024)*   
- *Stories about how right opportunities, doing the work, and your cultural legacy can shape your life.*   
-   
-
- - **[What skills you should list in your CV](https://mareklexuan.com/what-skills-you-should-list-in-your-cv/)** *(2 May, 2024)*   
- *What skills you should list in your CV to keep it relevant and up-to-date when applying for a job*   
-   
-
- - **[Book Review: Do the Work](https://mareklexuan.com/book-review-do-the-work/)** *(9 March, 2024)*   
- *Manifesto of mantras about stages of your creative work and dealing with resistance and getting work done.*   
-   
-
  - **[Book Review: 48 Laws of Power](https://mareklexuan.com/book-review-48-laws-of-power/)** *(9 August, 2023)*   
  *It is one of the most extensive books about amassing power, and as such banned in several US prisons*   
+   
+
+ - **[Revenge Bedtime Procrastination Is Stealing Your Sleep](https://mareklexuan.com/revenge-bedtime-procrastination-is-stealing-your-sleep/)** *(2 August, 2023)*   
+ *You need to go to bed but instead you watch another episode of your favourite show*   
    
 <!-- BLOG-POST-LIST:END -->
 <br>
