@@ -12,7 +12,7 @@ I am responsible for strategic planning and execution, defining project roadmaps
 
 I hold PRINCE2 project management and Scrum Master certifications, with experience in both Agile (Scrum, Kanban, scaled Spotify model) and more traditional waterfall environments.
 
-Let’s connect! I am always interested in discussing strategies for optimizing productivity, leadership and people management, and exploring opportunities for collaboration in the tech space.
+_Let’s connect! I am always interested in discussing strategies for optimizing productivity, leadership and people management, and exploring opportunities for collaboration in the tech space._
 
 <br>
 
