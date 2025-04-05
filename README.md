@@ -1,6 +1,6 @@
 # Hello there, I'm Marek Le Xuan 👋
 
-### Project • Product • Productivity
+### Project Management • Productivity • Automation • AI
 
 <br>
 
