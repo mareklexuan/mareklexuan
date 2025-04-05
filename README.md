@@ -4,9 +4,13 @@
 
 <br>
 
-I’m a project manager in tech, working for the past 8 years on development and security projects, in companies like Kiwi.com, ContentKing and as a freelancer. Currently looking for a new company to join, as a Product or Project Manager/Owner.
+I am Project Management and Operations leader with almost 10 years of experience in tech, in fast-paced and dynamic startups like Kiwi.com and ContentKing.
 
-I am PRINCE2 certified, with experience in both Agile (Scrum, Kanban) and more traditional waterfall projects, from custom ERP/CRM to smaller web projects.
+I am leading and mentoring project management teams, developing processes for scalable growth and efficient project execution, overseeing the end-to-end delivery of software development and operational projects, managing both clients and delivery teams, and driving collaboration and effective communication.
+
+I am responsible for strategic planning and execution, defining project roadmaps and planning resources. As part of the top leadership team, I also contribute in shaping the company’s strategic direction and planning long-term goals, ensuring alignment across all teams, and driving organizational success and growth.
+
+I hold PRINCE2 project management and Scrum Master certifications, with experience in both Agile (Scrum, Kanban, scaled Spotify model) and more traditional waterfall environments.
 
 <br>
 
@@ -32,13 +36,14 @@ I am PRINCE2 certified, with experience in both Agile (Scrum, Kanban) and more t
 ## My latest blog posts 📰
 
 <!-- BLOG-POST-LIST:START -->
- - **[Book Review: 48 Laws of Power](https://mareklexuan.com/book-review-48-laws-of-power/)** *(9 August, 2023)*   
- *It is one of the most extensive books about amassing power, and as such banned in several US prisons*   
-   
 
- - **[Revenge Bedtime Procrastination Is Stealing Your Sleep](https://mareklexuan.com/revenge-bedtime-procrastination-is-stealing-your-sleep/)** *(2 August, 2023)*   
- *You need to go to bed but instead you watch another episode of your favourite show*   
-   
+- **[Book Review: 48 Laws of Power](https://mareklexuan.com/book-review-48-laws-of-power/)** _(9 August, 2023)_  
+  _It is one of the most extensive books about amassing power, and as such banned in several US prisons_
+
+- **[Revenge Bedtime Procrastination Is Stealing Your Sleep](https://mareklexuan.com/revenge-bedtime-procrastination-is-stealing-your-sleep/)** _(2 August, 2023)_  
+  _You need to go to bed but instead you watch another episode of your favourite show_  
+
+
 <!-- BLOG-POST-LIST:END -->
 <br>
 
