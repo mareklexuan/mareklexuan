@@ -10,20 +10,19 @@ I am PRINCE2 certified, with experience in both Agile (Scrum, Kanban) and more t
 
 <br>
 
-<img src="https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white"></a>&nbsp;
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>&nbsp;
+<img src="https://img.shields.io/badge/Confluence-0052CC?style=for-the-badge&logo=Confluence&logoColor=white"></a>&nbsp;
+<img src="https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white"></a>&nbsp;
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"></a>&nbsp;
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>&nbsp;
-<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></a>&nbsp;
-<img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036"></a>&nbsp;
-<img src="https://img.shields.io/badge/Confluence-0052CC?style=for-the-badge&logo=Confluence&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></a>
 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
 
 <img src="https://img.shields.io/badge/make-F5F0F0?style=for-the-badge&logo=make&logoColor=050036"></a>
 
+<img src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white"></a>&nbsp;
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"></a>&nbsp;
-<img src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white"></a>
-
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>&nbsp;
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></a>&nbsp;
@@ -33,13 +32,13 @@ I am PRINCE2 certified, with experience in both Agile (Scrum, Kanban) and more t
 ## My latest blog posts 📰
 
 <!-- BLOG-POST-LIST:START -->
- - **[Book Review: 48 Laws of Power](https://mareklexuan.com/book-review-48-laws-of-power/)** *(9 August, 2023)*   
- *It is one of the most extensive books about amassing power, and as such banned in several US prisons*   
-   
 
- - **[Revenge Bedtime Procrastination Is Stealing Your Sleep](https://mareklexuan.com/revenge-bedtime-procrastination-is-stealing-your-sleep/)** *(2 August, 2023)*   
- *You need to go to bed but instead you watch another episode of your favourite show*   
-   
+- **[Book Review: 48 Laws of Power](https://mareklexuan.com/book-review-48-laws-of-power/)** _(9 August, 2023)_  
+  _It is one of the most extensive books about amassing power, and as such banned in several US prisons_
+
+- **[Revenge Bedtime Procrastination Is Stealing Your Sleep](https://mareklexuan.com/revenge-bedtime-procrastination-is-stealing-your-sleep/)** _(2 August, 2023)_  
+  _You need to go to bed but instead you watch another episode of your favourite show_
+
 <!-- BLOG-POST-LIST:END -->
 <br>
 
