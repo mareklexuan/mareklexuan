@@ -12,6 +12,8 @@ I am responsible for strategic planning and execution, defining project roadmaps
 
 I hold PRINCE2 project management and Scrum Master certifications, with experience in both Agile (Scrum, Kanban, scaled Spotify model) and more traditional waterfall environments.
 
+Let’s connect! I am always interested in discussing strategies for optimizing productivity, leadership and people management, and exploring opportunities for collaboration in the tech space.
+
 <br>
 
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>&nbsp;
@@ -41,8 +43,7 @@ I hold PRINCE2 project management and Scrum Master certifications, with experien
   _It is one of the most extensive books about amassing power, and as such banned in several US prisons_
 
 - **[Revenge Bedtime Procrastination Is Stealing Your Sleep](https://mareklexuan.com/revenge-bedtime-procrastination-is-stealing-your-sleep/)** _(2 August, 2023)_  
-  _You need to go to bed but instead you watch another episode of your favourite show_  
-
+  _You need to go to bed but instead you watch another episode of your favourite show_
 
 <!-- BLOG-POST-LIST:END -->
 <br>
