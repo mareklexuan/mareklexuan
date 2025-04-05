@@ -32,13 +32,13 @@ I am PRINCE2 certified, with experience in both Agile (Scrum, Kanban) and more t
 ## My latest blog posts 📰
 
 <!-- BLOG-POST-LIST:START -->
+ - **[Book Review: 48 Laws of Power](https://mareklexuan.com/book-review-48-laws-of-power/)** *(9 August, 2023)*   
+ *It is one of the most extensive books about amassing power, and as such banned in several US prisons*   
+   
 
-- **[Book Review: 48 Laws of Power](https://mareklexuan.com/book-review-48-laws-of-power/)** _(9 August, 2023)_  
-  _It is one of the most extensive books about amassing power, and as such banned in several US prisons_
-
-- **[Revenge Bedtime Procrastination Is Stealing Your Sleep](https://mareklexuan.com/revenge-bedtime-procrastination-is-stealing-your-sleep/)** _(2 August, 2023)_  
-  _You need to go to bed but instead you watch another episode of your favourite show_
-
+ - **[Revenge Bedtime Procrastination Is Stealing Your Sleep](https://mareklexuan.com/revenge-bedtime-procrastination-is-stealing-your-sleep/)** *(2 August, 2023)*   
+ *You need to go to bed but instead you watch another episode of your favourite show*   
+   
 <!-- BLOG-POST-LIST:END -->
 <br>
 
