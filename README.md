@@ -38,11 +38,11 @@ _Let’s connect! I am always interested in discussing strategies for optimizing
 ## My latest blog posts 📰
 
 <!-- BLOG-POST-LIST:START -->
- - **[Book Review: 48 Laws of Power](https://mareklexuan.com/book-review-48-laws-of-power/)** *(9 August, 2023)*   
+ - **[Book Review: 48 Laws of Power](https://mareklexuan.com/book-review-48-laws-of-power/)** *(10 August, 2023)*   
  *It is one of the most extensive books about amassing power, and as such banned in several US prisons*   
    
 
- - **[Revenge Bedtime Procrastination Is Stealing Your Sleep](https://mareklexuan.com/revenge-bedtime-procrastination-is-stealing-your-sleep/)** *(2 August, 2023)*   
+ - **[Revenge Bedtime Procrastination Is Stealing Your Sleep](https://mareklexuan.com/revenge-bedtime-procrastination-is-stealing-your-sleep/)** *(3 August, 2023)*   
  *You need to go to bed but instead you watch another episode of your favourite show*   
    
 <!-- BLOG-POST-LIST:END -->
