@@ -4,22 +4,21 @@
 
 <br>
 
-I am Project Management and Operations leader with almost 10 years of experience in tech, in fast-paced and dynamic startups like Kiwi.com and ContentKing.
+I am Project Management leader with almost 10 years of experience in tech, in fast-paced and dynamic startups like Kiwi.com and ContentKing.
 
-I am leading and mentoring project management teams, developing processes for scalable growth and efficient project execution, overseeing the end-to-end delivery of software development and operational projects, managing both clients and delivery teams, and driving collaboration and effective communication.
+I am leading and mentoring projects and delivery teams, developing processes for scalable growth and efficient project execution, overseeing the end-to-end delivery of software development and operational projects, managing both clients and delivery teams, and driving collaboration and effective communication.
 
-I am responsible for strategic planning and execution, defining project roadmaps and planning resources. As part of the top leadership team, I also contribute in shaping the company’s strategic direction and planning long-term goals, ensuring alignment across all teams, and driving organizational success and growth.
+I am responsible for strategic planning and execution, scoping, business and technical analysis, defining project roadmaps and planning resources. As part of the top leadership team, I also contribute in shaping the company’s strategic direction and planning long-term goals, ensuring alignment across all teams, and driving organizational success and growth.
 
-I hold PRINCE2 project management and Scrum Master certifications, with experience in both Agile (Scrum, Kanban, scaled Spotify model) and more traditional waterfall environments.
+I hold PRINCE2 Practitioner project management and Scrum Product Owner II and Scrum Master II certifications, with experience in both Agile (Scrum, Kanban, scaled Spotify model) and more traditional waterfall environments.
 
 _Let’s connect! I am always interested in discussing strategies for optimizing productivity, leadership and people management, and exploring opportunities for collaboration in the tech space._
 
 <br>
 
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>&nbsp;
-<img src="https://img.shields.io/badge/Confluence-0052CC?style=for-the-badge&logo=Confluence&logoColor=white"></a>&nbsp;
 <img src="https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white"></a>&nbsp;
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"></a>&nbsp;
+<img src="https://img.shields.io/badge/Confluence-0052CC?style=for-the-badge&logo=Confluence&logoColor=white"></a>&nbsp;
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>&nbsp;
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></a>
 
@@ -28,7 +27,6 @@ _Let’s connect! I am always interested in discussing strategies for optimizing
 <img src="https://img.shields.io/badge/make-F5F0F0?style=for-the-badge&logo=make&logoColor=050036"></a>
 
 <img src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white"></a>&nbsp;
-<img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"></a>&nbsp;
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>&nbsp;
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></a>&nbsp;
@@ -38,13 +36,13 @@ _Let’s connect! I am always interested in discussing strategies for optimizing
 ## My latest blog posts 📰
 
 <!-- BLOG-POST-LIST:START -->
- - **[Book Review: 48 Laws of Power](https://mareklexuan.com/book-review-48-laws-of-power/)** *(10 August, 2023)*   
- *It is one of the most extensive books about amassing power, and as such banned in several US prisons*   
-   
 
- - **[Revenge Bedtime Procrastination Is Stealing Your Sleep](https://mareklexuan.com/revenge-bedtime-procrastination-is-stealing-your-sleep/)** *(3 August, 2023)*   
- *You need to go to bed but instead you watch another episode of your favourite show*   
-   
+- **[Book Review: 48 Laws of Power](https://mareklexuan.com/book-review-48-laws-of-power/)** _(10 August, 2023)_  
+  _It is one of the most extensive books about amassing power, and as such banned in several US prisons_
+
+- **[Revenge Bedtime Procrastination Is Stealing Your Sleep](https://mareklexuan.com/revenge-bedtime-procrastination-is-stealing-your-sleep/)** _(3 August, 2023)_  
+  _You need to go to bed but instead you watch another episode of your favourite show_
+
 <!-- BLOG-POST-LIST:END -->
 <br>
 
